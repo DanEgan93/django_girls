@@ -1,6 +1,5 @@
 datadump.json
 db.sqlite3
-manage.py
 mysite/__pycache__
 mysite/__init__.py 
 myvenv/
